@@ -12,7 +12,7 @@ $this->title = 'My Yii Application';
 
         <p class="lead">You have successfully created your Yii-powered application.</p>
 
-        <p><a class="btn btn-lg btn-success" href="<?= Url::to(['data/show1']) ?>">Получить данные</a></p>
+        <p><a class="btn btn-lg btn-success" href="<?= Url::to(['data/show']) ?>">Получить данные</a></p>
         <p><a class="btn btn-lg btn-success" href="<?= Url::to(['data/pages']) ?>">Получить данные PAGES</a></p>
 
 
